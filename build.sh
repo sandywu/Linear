@@ -1,6 +1,6 @@
 #/bin/bash
 
-# build light-min.js file
+# build light.js file
 
 # Remove previous file
 
